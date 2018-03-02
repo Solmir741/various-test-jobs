@@ -1,1 +1,1 @@
-# 1repository
+# 1repository сингулярность
